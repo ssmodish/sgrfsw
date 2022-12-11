@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "16.13.0",
+    "npm": "8.4.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Steve Smodish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
